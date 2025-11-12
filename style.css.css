@@ -1,0 +1,26 @@
+body{
+    background-image:url("image4.jpeg");
+    height: 1000px;
+    width: 100vw;
+    color: rgb(247, 250, 247);
+    font-size: 50px;
+    font-size: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#item1{
+   text-align: left; 
+   position: relative;
+   left: 120px;
+   
+}
+#item2{
+    text-align: left;
+    position: relative;
+    left: 100px;
+
+}
+
+
+
+  
